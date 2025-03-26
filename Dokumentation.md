@@ -1,9 +1,9 @@
 # Webserver mit Seite
 Ein passendes Image auf hub.docker.com recherchieren
 
-Ein eigenes Dockerfile erstellen → [Dockerfile(https://github.com/OhSorrry/Mini-Projekt-m169/blob/main/Dockerfile)]
+Ein eigenes Dockerfile erstellen → [Dockerfile](https://github.com/OhSorrry/Mini-Projekt-m169/blob/main/Dockerfile)
 
-[Index.html(https://github.com/OhSorrry/Mini-Projekt-m169/blob/main/Index.html)] anlegen und im Verzeichnis /public-html abspeichern
+[Index.html](https://github.com/OhSorrry/Mini-Projekt-m169/blob/main/Index.html) anlegen und im Verzeichnis /public-html abspeichern
 
 Das Image mit folgendem Befehl erstellen:
 
